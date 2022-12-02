@@ -1,5 +1,5 @@
 
-# Hey, Welcome to Repo of Public Health Record Management System! 👋
+# Hey, Welcome to Repo of SIKAT 👋
 
 
 ## Run Locally
@@ -7,13 +7,13 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/PICT-PBL-6-2021-22/public_health_record_management_system
+  git clone https://github.com/FrontEnd33-skilvul/fe33-group-project/tree/main/sikat
 ```
 
 Go to the project directory
 
 ```bash
-  cd public_health_record_management_system
+  cd sikat
 ```
 
 Install dependencies in server
@@ -52,19 +52,5 @@ Start Server using node or nodemon
 
 
 Please Use Tailwind CSS for styling components
-## Environment Variables
 
-To run this project, you will need to add the following environment variables to your .env file
-
-`DATABASE`
-
-`SECRET_KEY`
-
-DATABASE contains the dbURI of MongoDB connections and SECRET_KEY contains Secret key for signing and verifying Jason Web Tokens (JWT)
-
-
-## Authors
-
-- [@rohitvpatil0810](https://www.github.com/rohitvpaitl0810)
-- [@jayesh1602](https://www.github.com/jayesh1602)
 
